@@ -1,4 +1,5 @@
 # Medical_Insurance_Risk_Control_Project
+## Institution: City University of Hong Kong
 ### Contributors:
 1. Yanhua Bai
 2. Kenan Hong
